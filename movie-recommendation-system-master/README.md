@@ -3,7 +3,7 @@
 This repository contains all the project files and necessary details about applications required to run the project on your local machine as well as host it as a Django Application on your Server/Domain.
 
 
-Do you like it? :heart: Follow me on , [GitHub](https://github.com/harini782004), & [LinkedIn](https://www.linkedin.com/in/sivaharini782004/) to say Hi :wave:
+Do you like it?  Follow me on , [GitHub](https://github.com/harini782004), & [LinkedIn](https://www.linkedin.com/in/sivaharini782004/) 
 
 <hr>
 
