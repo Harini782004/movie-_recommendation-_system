@@ -1,16 +1,10 @@
-# Movie Recommendation System (MRS)
+
+# Movie Recommendation System
 
 This repository contains all the project files and necessary details about applications required to run the project on your local machine as well as host it as a Django Application on your Server/Domain.
 
-| Title                                    | Description                                                                                                         | Link                                                                                                                       |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Demo :movie_camera:                      | Sample Demo of MRS Hosted on free cloud PaaS                                                                        | [:point_down: Refer](https://github.com/inboxpraveen/movie-recommendation-system#1-demo-movie_camera)                      |
-| Requirements :heavy_check_mark:          | Requirements and essential links to get started with the project locally                                            | [:point_down: Refer](https://github.com/inboxpraveen/movie-recommendation-system#2-requirements-heavy_check_mark)          |
-| Model Training :small_red_triangle_down: | How the MRS was trained for Demo as well as on Large Movie Dataset from Kaggle                                      | [:point_down: Refer](https://github.com/inboxpraveen/movie-recommendation-system#3-model-training-small_red_triangle_down) |
-| Project Versatility :page_with_curl:     | Reference documentation of how to plug in any general recommendation model into this project and host it on servers | [:point_down:Refer](https://github.com/inboxpraveen/movie-recommendation-system#4-project-guide)                           |
-| Troubleshooting Issues :muscle:          | Guide to resolve errors faced during reproducibility                                                                | To be Updated                                                                                                              |
 
-Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen), [GitHub](https://github.com/inboxpraveen), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
+Do you like it? Follow me on , [GitHub](https://github.com/harini782004), & [LinkedIn](https://www.linkedin.com/in/sivaharini782004/) 
 
 <hr>
 
@@ -43,9 +37,7 @@ In this section, we try to understand through video demo to play around the proj
 
 ____
 
-***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
 
-<hr>
 
 ## 2. Requirements :heavy_check_mark:
 
@@ -61,7 +53,7 @@ To build this project without any errors/issues, the following requirements need
 
 ### 3.1 Training & Inference
 
-For complete guide to training your model and inference using the trained model, refer to "[Movie Recommendation System Python Notebook](https://github.com/inboxpraveen/movie-recommendation-system/blob/master/Movie_Recommendation_System_Complete_Guide.ipynb)".
+For complete guide to training your model and inference using the trained model, refer to "[Movie Recommendation System Python Notebook](https://github.com/Harini782004/movie-recommendation-system/blob/master/Movie_Recommendation_System_Complete_Guide.ipynb)".
 
 #### 3.2 Django Web Application Integration
 
@@ -77,7 +69,7 @@ For complete guide to training your model and inference using the trained model,
 
 #### 4.2 Running in Local
 
-I am assuming you have completed [section 2](https://github.com/inboxpraveen/movie-recommendation-system#2-requirements-heavy_check_mark) in the above reference for creating your environment. Let's start by activating it.
+I am assuming you have completed [section 2](https://github.com/Harini782004/movie-recommendation-system#2-requirements-heavy_check_mark) in the above reference for creating your environment. Let's start by activating it.
 
 ```shell
 /path/to/env/bin/activate
@@ -131,4 +123,4 @@ Usage:
 
 Note: Only the top 2.5K movies based on IMBD are present in this system's database.
 
-> **Working on [version 2 of movie recommendation system on new repository](https://github.com/inboxpraveen/movie-recommendation-system-version-2) which can process 1 million movies within similar memory footprints, better recommendations, and diverse selections, with added features like recommendation bucket and mutual sharing. Stay tuned and do not forget to start the repository to reach out to open-source community.**
+> **Working on [version 2 of movie recommendation system on new repository](https://github.com/Harini782004/movie-recommendation-system-version-2) which can process 1 million movies within similar memory footprints, better recommendations, and diverse selections, with added features like recommendation bucket and mutual sharing. Stay tuned and do not forget to start the repository to reach out to open-source community.**
