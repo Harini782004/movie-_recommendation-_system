@@ -37,9 +37,6 @@ In this section, we try to understand through video demo to play around the proj
 
 ____
 
-***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
-
-<hr>
 
 ## 2. Requirements :heavy_check_mark:
 
